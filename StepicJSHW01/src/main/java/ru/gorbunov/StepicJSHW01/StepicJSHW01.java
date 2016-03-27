@@ -1,4 +1,4 @@
-package ru.gorbunov.StepicJSHW01;
+package ru.gorbunov.stepicjshw01;
 
 import org.eclipse.jetty.server.Server;
 import org.eclipse.jetty.servlet.ServletContextHandler;
@@ -27,6 +27,7 @@ public class StepicJSHW01 {
 
         //Запускаем сервер
         server.start();
+        System.out.println("Server started");
         server.join();
 
     }
