@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/StepicJavaServer.iml" filepath="$PROJECT_DIR$/StepicJavaServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StepicJava.iml" filepath="$PROJECT_DIR$/StepicJava.iml" />
     </modules>
   </component>
 </project>

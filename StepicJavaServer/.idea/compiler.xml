@@ -22,11 +22,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="StepicJavaServer" />
+        <module name="StepicJava" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="StepicJavaServer" target="1.5" />
+    <bytecodeTargetLevel target="1.8">
+      <module name="StepicJava" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
