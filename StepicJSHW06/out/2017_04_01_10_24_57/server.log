@@ -1,0 +1,6 @@
+[04-01 10:24:57,371, 490] example.Main Starting at http://127.0.0.1:8080
+[04-01 10:24:57,751, 870] example.Main Server started
+[04-01 10:25:01,901, 5020] servlets.ResourceServlet Resource: null.
+[04-01 10:25:06,511, 9630] servlets.ResourceServlet POST
+[04-01 10:25:06,511, 9630] servlets.ResourceServlet resource
+[04-01 10:25:09,601, 12720] servlets.ResourceServlet Resource: TestResource{name='Test1456776582460', age='678'}.
